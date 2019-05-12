@@ -1,0 +1,3 @@
+* * 0 1 2 /bin/bash/touch home/ivan/Sisop
+60 10 11 90 12 /bin/bash/mkdir home/ivan/Sisop
+2 * * 10 2 /bin/bash/nano home/ivan/Sisop
